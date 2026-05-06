@@ -3,7 +3,7 @@ grf {
 	name: string(STR_GRF_NAME_TREE);
 	desc: string(STR_GRF_DESCRIPTION_TREE);
 	url:  string(STR_GRF_URL);
-	version: 130;
+	version: 140;
 	min_compatible_version: 100;
 	param 0 {
 		param_temperate {
