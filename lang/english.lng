@@ -1,7 +1,7 @@
 ##grflangid 0x01
 STR_GRF_NAME_TREE						:Zyliety's Tree Set
 STR_GRF_DESCRIPTION_TREE				:A graphics replacement set for trees. Covers Temperate, Arctic, and now Tropic climates. Inspired by the lovely scenery of Japan.2026/1/15{}Draw by: Zyliety. {}Code:Ufiby, reldred.{}License:GPLv2 or higher
-STR_GRF_URL         :https://www.tt-forums.net/viewtopic.php?t=91773&start=120
+STR_GRF_URL         :https://github.com/zyliety/Zyliety-Tree-Set
 
 
 STR_OPENTTD_VERSION						:1.10.0
